@@ -8,15 +8,17 @@
   },
   "dependencies": {
     "cors": "2.8.1",
-    "express": "4.13.3"
+    "express": "4.13.3",
+    "heroku": "^0.2.0",
+    "heroku-cli": "^6.16.4"
   },
   "engines": {
-    "node": "5.6.0"
+    "node": "9.9.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/edpark722/js-dev-env-demo-api.git"
   },
-  "author": "Cory House",
-  "license": "MIT"
+  "author": "Edmund Park",
+  "license": "Patolus"
 }
